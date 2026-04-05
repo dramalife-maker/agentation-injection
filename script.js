@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Agentation Injection
-// @namespace    https://github.com/Li-AnLin/agentation-injection
+// @namespace    https://github.com/dramalife-maker/agentation-injection
 // @version      1.0.0
 // @description  在本地開發頁面注入 Agentation
 // @match        http://localhost/*
@@ -8,8 +8,8 @@
 // @match        http://[::1]/*
 // @run-at       document-end
 // @grant        none
-// @author       Li-AnLin
-// @homepage     https://github.com/Li-AnLin/agentation-injection
+// @author       dramalife-maker
+// @homepage     https://github.com/dramalife-maker/agentation-injection
 // ==/UserScript==
 
 (function () {
