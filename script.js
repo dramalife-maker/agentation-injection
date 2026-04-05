@@ -8,6 +8,8 @@
 // @match        http://[::1]/*
 // @run-at       document-end
 // @grant        none
+// @author       Li-AnLin
+// @homepage     https://github.com/Li-AnLin/agentation-injection
 // ==/UserScript==
 
 (function () {
